@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m a full-stack Software Developer who loves building applications using MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs).
+- :telescope: I’m a full-stack Software Developer who loves building applications to solve real-life problems.
 
 - :seedling: Exploring new Technologies.
 
