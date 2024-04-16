@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </div>
 <div id="body" align="center">
   <h1>
-    hey there, I'm Tarun Jha
+    Hey there, I'm Tarun Jha
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <div align="center">
